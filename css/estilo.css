@@ -18,11 +18,11 @@ header img {
 #section-vendidos h2 {
     font-weight: bold;
     padding: 20px;
-    
 }
     
 #section-vendidos img {
     height: 300px;
+    width: 300px;
     border-radius: 10px;
 }
 
