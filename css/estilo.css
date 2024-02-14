@@ -22,13 +22,11 @@ header img {
     
 #section-vendidos img {
     height: 300px;
-    width: 300px;
     border-radius: 10px;
 }
 
 #section-vendidos .card {
     margin: 5px;
-    padding: 5px;
     border: 1px solid #ccc;
     border-radius: 10px;    
 }
